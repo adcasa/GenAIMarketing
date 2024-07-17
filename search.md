@@ -4,7 +4,7 @@
 
 
 - [Objetivo](#objetivo)
-- [Estrategia SEO Search Engine Optimization](#estrategia_seo)
+- [Estrategia SEO Search Engine Optimization](#Estrategia-SEO-Search-Engine-Optimization)
 - [Estrategia SEM Search Engine Marketing](#estrategia_sem)
 - [Ejemplo](#ejemplo)
 
