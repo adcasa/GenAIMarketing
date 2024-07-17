@@ -53,3 +53,7 @@ Aumentar la visibilidad de la marca y las ventas de juguetes de madera a través
     - Texto: "Juguetes de madera educativos para un aprendizaje divertido y sostenible. ¡Compra ahora!"
 - **Remarketing:**
   - Anuncio: "¿Aún pensando en nuestros juguetes de madera? ¡Vuelve y obtén un 15% de descuento en tu compra!"
+
+
+Identificamos que los principales que aparecen en las campañas de search en Google son productos de Shopping de Pin Pon, corner home Temu y Waldo’s.
+<img src="search.png" alt="image" width="80%" height="auto">
