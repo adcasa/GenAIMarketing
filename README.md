@@ -14,13 +14,7 @@
 
 [Resumen generado a partir de prompt engineering](resumen_web.md)
 
-## Contenido para campañas de marketing
-- Search
-- Youtube
-- Instagram 
-
-
-## Campaña de marketing para juguetes de madera
+## Contenido para campañas de marketing para juguetes de madera
 
 [Campaña en Search](search.md)
 
