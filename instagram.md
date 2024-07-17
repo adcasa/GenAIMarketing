@@ -11,7 +11,7 @@
 - [Fact Checking](#Fact-Checking)
 - [Imágenes](#Imágenes)
 
-## Objetivo
+## Objetivo:dart:
 Crear una comunidad de padres y educadores interesados en juguetes educativos y sostenibles, y fomentar la participación activa.
 
 :bookmark:
