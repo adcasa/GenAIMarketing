@@ -1,5 +1,4 @@
-\[[Inicio](README.md)\] \[[Campaña en Search](search.md)\] \[[Campaña de Youtube](youtube.md)\] \[[Campaña en Instagram](instagram.md)\]
-
+\[[Inicio](README.md)\] \[[Campaña en Search](search.md)\] \[[Campaña de Youtube](youtube.md)\] \[[Campaña en Instagram](instagram.md)\] \[[ChatGPT]: https://chatgpt.com\]
 # :star2:Campañas propuestas: Marketing para Search (SEO y SEM):star2:
 
 
