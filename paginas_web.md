@@ -18,7 +18,7 @@
 
 
 
-## Contendio de juguetes de madera
+## Contenido de juguetes de madera
 | Referencia    | Sitio Web |
 | -------- | ------- |
 | Kidos    | https://kidos.com.mx   |
