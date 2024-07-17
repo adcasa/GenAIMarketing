@@ -24,12 +24,9 @@ especial de la IA Generativa) https://www.merca20.com/ https://es.semrush.com/bl
 
 ### Para generar las campañas:
 ~~~
-gracias, ahora me ayudas con propuestas de campañas de marketing para la paltaforma Marketing para Search, youtube e instagram? (utilizando un poco como base lo hecho por las marcas competidoras) 
-~~~
-
-### Para generar las campañas:
-~~~
-gracias, ahora me ayudas con propuestas de campañas de marketing para la paltaforma Marketing para Search, youtube e instagram? (utilizando un poco como base lo hecho por las marcas competidoras), necesito que describas el objetivo, la estrategia y ejemplos relacionados con la campaña
+gracias, ahora me ayudas con propuestas de campañas de marketing para la paltaforma Marketing para Search,
+youtube e instagram? (utilizando un poco como base lo hecho por las marcas competidoras), necesito que
+describas el objetivo, la estrategia y ejemplos relacionados con la campaña
 ~~~
 
 ### Para puntos clave:
