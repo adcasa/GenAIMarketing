@@ -10,7 +10,7 @@
 
 ## Contenido general
 
-[Páginas web con contenido relevante para su proyecto](paginas_web.md)
+[Páginas web con contenido relevante para el proyecto](paginas_web.md)
 
 [Resumen generado a partir de prompt engineering](resumen_web.md)
 
