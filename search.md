@@ -73,3 +73,7 @@ Imágenes libres de derechos (royalty-free) para el contenido de la campaña.
 <div class="contenedor-imagenes">
 <img src="pexels-photo-3933025.jpeg" alt="image" width="100%" height="auto">
 </div>
+
+| Refernecia    | Sitio Web |
+| -------- | ------- |
+| Imagen1    | https://images.pexels.com/photos/3933025/pexels-photo-3933025.jpeg?auto=compress&cs=tinysrgb&w=600    |
