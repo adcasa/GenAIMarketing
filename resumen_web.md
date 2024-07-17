@@ -12,7 +12,9 @@
 - **Juguete Mexicano Artesanal:** Este colectivo agrupa a varios artesanos que producen juguetes tradicionales mexicanos utilizando materiales como madera, hojalata y textiles. Estos juguetes están diseñados para preservar la cultura y las tradiciones mexicanas, ofreciendo productos como baleros, muñecas de trapo y carritos de madera. La iniciativa busca no solo vender juguetes, sino también educar al público sobre el valor cultural de estos productos y apoyar a los artesanos locales​ (https://www.animalpolitico.com/tendencias/estilo-de-vida/juguete-mexicano-artesanal-como-se-hace)​.
 
 ## Prompts utilizados:
-~~~Hola, como experto en marketing haremos un trabajo sobre la venta de juguetes de madera, el objetivo es hacer 3 campañas para ofrecer nuestros productos (1 por x, 1 por youtube, 1 por instagram), lo primero que necesitamos es el resumen breve de 3 o 4 competidores en méxico para tomarlos como bench. Puedes ayudarme eligiendo de la siguiente lista las principales para guiarnos? https://blog.hootsuite.com/es/ https://metricool.com/es/blog/ https://www.rdstation.com/blog/es/ https://blog.hubspot.es/marketing/ia-generativa (este es un artículo especial de la IA Generativa) https://www.merca20.com/ https://es.semrush.com/blog/~~~
+~~~
+Hola, como experto en marketing haremos un trabajo sobre la venta de juguetes de madera, el objetivo es hacer 3 campañas para ofrecer nuestros productos (1 por x, 1 por youtube, 1 por instagram), lo primero que necesitamos es el resumen breve de 3 o 4 competidores en méxico para tomarlos como bench. Puedes ayudarme eligiendo de la siguiente lista las principales para guiarnos? https://blog.hootsuite.com/es/ https://metricool.com/es/blog/ https://www.rdstation.com/blog/es/ https://blog.hubspot.es/marketing/ia-generativa (este es un artículo especial de la IA Generativa) https://www.merca20.com/ https://es.semrush.com/blog/
+~~~
 
 *Es importante mencionar que validamos la información entrando a los sitios web*
 
