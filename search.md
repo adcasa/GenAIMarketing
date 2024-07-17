@@ -56,4 +56,4 @@ Aumentar la visibilidad de la marca y las ventas de juguetes de madera a través
 
 
 Identificamos que los principales que aparecen en las campañas de search en Google son productos de Shopping de Pin Pon, corner home Temu y Waldo’s.
-<img src="search.png" alt="image" width="80%" height="auto">
+<img src="search.png" alt="image" width="100%" height="auto">
