@@ -46,7 +46,7 @@ qwe
 123
 
 
-## Estrategia SEO Search Engine Optimization
+# Estrategia SEO Search Engine Optimization
 
 asd
 fas
@@ -57,7 +57,7 @@ sdf
 asd
 fa
 sd
-## Estrategia SEM Search Engine Marketing
+# Estrategia SEM Search Engine Marketing
 
 asd
 fa
@@ -69,7 +69,7 @@ asd
 fa
 dsf
 
-## Ejemplo
+# Ejemplo
 asdf
 asd
 fa
