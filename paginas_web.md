@@ -9,7 +9,7 @@
 - Merca 2.0 (https://www.merca20.com/): Merca 2.0 es un portal de noticias de marketing y publicidad en América Latina. Ofrece artículos sobre tendencias en branding, campañas publicitarias, análisis de mercado y estudios de caso relevantes para la industria publicitaria.
 - Semrush Blog (https://es.semrush.com/blog/): El blog de Semrush proporciona recursos sobre SEO, SEM, content marketing y análisis de datos. Ofrece tutoriales, estudios de caso y consejos para ayudar a los profesionales del marketing a mejorar su visibilidad online y optimizar sus estrategias digitales.
 
-Explicando el plan de marketing enfocado en juguetes de madera:
+## Plan de marketing enfocado en juguetes de madera:
 | Refernecia    | Sitio Web |
 | -------- | ------- |
 | Sumerlabs    | https://blog.sumerlabs.com/como-utilizar-el-marketing-de-contenidos-para-vender-juguetes-de-madera |
