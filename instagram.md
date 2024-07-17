@@ -1,4 +1,4 @@
-\[[Inicio](README.md)\] \[[Campaña en Search](search.md)\] \[[Campaña de Youtube](youtube.md)\] \[[Campaña en Instagram](instagram.md)\]
+\[[Inicio](README.md)\] \[[Campaña en Search](search.md)\] \[[Campaña de Youtube](youtube.md)\] \[[Campaña en Instagram](instagram.md)\]  \[[ChatGPT](https://chatgpt.com)\]
 # :star2:Campañas propuestas: Marketing para Instagram:star2:
 
 
@@ -60,4 +60,4 @@ Imágenes libres de derechos (royalty-free) para el contenido de la campaña.
 | Imagen1    | https://images.pexels.com/photos/255514/pexels-photo-255514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1     |
 | Imagen2     | https://images.pexels.com/photos/3661195/pexels-photo-3661195.jpeg?auto=compress&cs=tinysrgb&w=600     |
 
-[Inicio](README.md)
+\[[Inicio](README.md)\] \[[Campaña en Search](search.md)\] \[[Campaña de Youtube](youtube.md)\] \[[Campaña en Instagram](instagram.md)\]  \[[ChatGPT](https://chatgpt.com)\]
