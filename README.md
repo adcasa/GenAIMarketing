@@ -2,7 +2,7 @@
 
 
 # Creación de contenido: 
-Campaña de marketing para juguetes de madera a través de ChatGPT y Prompt engineering
+# Campaña de marketing para juguetes de madera a través de ChatGPT y Prompt engineering
 ## Canales
 - Search
 - Youtube
