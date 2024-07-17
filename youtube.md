@@ -9,7 +9,7 @@
 - [Ejemplo de contenido](#Ejemplo-de-contenido)
 - [Revisiones](#Revisiones)
 - [Fact Checking](#Fact-Checking)
-- [Imágenes](#Imagenes)
+- [Imágenes](#Imágenes)
 
 ## Objetivo
 Mostrar el uso de los juguetes en situaciones reales y educativas, aumentando la visibilidad de la marca.
