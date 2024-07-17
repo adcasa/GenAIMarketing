@@ -9,6 +9,7 @@
 - [Ejemplo de contenido](#Ejemplo-de-contenido)
 - [Revisiones](#Revisiones)
 - [Fact Checking](#Fact-Checking)
+- [Imágenes](#Imagenes)
 
 ## Objetivo
 Mostrar el uso de los juguetes en situaciones reales y educativas, aumentando la visibilidad de la marca.
@@ -41,3 +42,6 @@ Las secciones anteriores fueron revisadas, modificadas y ajustadas con ChatGPT p
 
 ## Fact Checking
 Las secciones anteriores fueron verificadas y revisadas para evitar información alucinada o incorrecta.
+
+## Imágenes
+Imágenes libres de derechos (royalty-free) para el contenido de la campaña.
