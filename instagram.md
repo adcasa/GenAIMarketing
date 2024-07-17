@@ -14,6 +14,7 @@
 ## Objetivo
 Crear una comunidad de padres y educadores interesados en juguetes educativos y sostenibles, y fomentar la participación activa.
 
+:bookmark:
 ## Puntos clave
 - **Crear Comunidad:** Fomentar una comunidad activa de padres y educadores interesados en juguetes educativos y sostenibles.
 - **Posicionamiento de Marca:** Aumentar el reconocimiento de la marca a través de contenido visual atractivo.
