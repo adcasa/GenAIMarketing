@@ -12,5 +12,5 @@
 - **Juguete Mexicano Artesanal:** Este colectivo agrupa a varios artesanos que producen juguetes tradicionales mexicanos utilizando materiales como madera, hojalata y textiles. Estos juguetes están diseñados para preservar la cultura y las tradiciones mexicanas, ofreciendo productos como baleros, muñecas de trapo y carritos de madera. La iniciativa busca no solo vender juguetes, sino también educar al público sobre el valor cultural de estos productos y apoyar a los artesanos locales​ (https://www.animalpolitico.com/tendencias/estilo-de-vida/juguete-mexicano-artesanal-como-se-hace)​.
 
 
-
+[Inicio](README.md)
 
