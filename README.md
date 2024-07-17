@@ -25,6 +25,6 @@
 
 ## Equipo 27 GenAIMarketing
 - :smiley: Adolfo Castro
-- Cris Brito
-- Mónica Valencia
-- Pablo Sotres
+- :smiley: Cris Brito
+- :smiley: Mónica Valencia
+- :smiley: Pablo Sotres
