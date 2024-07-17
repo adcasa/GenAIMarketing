@@ -14,7 +14,7 @@
 
 [Resumen generado a partir de prompt engineering](resumen_web.md)
 
-## Contenido para campañas de marketing para juguetes de madera
+## Generación de contenido para campañas de marketing para juguetes de madera
 
 [Campaña en Search](search.md)
 
