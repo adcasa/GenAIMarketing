@@ -10,9 +10,9 @@
 
 ## Contenido general
 
-[Páginas web con contenido relevante para el proyecto](paginas_web.md)
+[Páginas web con contenido relevante para el proyecto](paginas_web.md) :dart:
 
-[Resumen generado a partir de prompt engineering](resumen_web.md)
+[Resumen generado a partir de prompt engineering](resumen_web.md):page_facing_up:
 
 ## Generación de contenido para campañas de marketing para juguetes de madera
 
