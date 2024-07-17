@@ -23,7 +23,7 @@
 [Campaña en Instagram](instagram.md):tv:
 
 ## Presentación
-[file](S05_Challenge_Checkpoint.pdf)
+[Presentación del Challenge](S05_Challenge_Checkpoint.pdf)
 
 ## Equipo 27 GenAIMarketing
 - :smiley: Adolfo Castro
