@@ -9,6 +9,7 @@
 - [Ejemplo](#ejemplo)
 - [Revisiones](#Revisiones)
 - [Fact Checking](#Fact-Checking)
+- [Imágenes](#Imagenes)
 
 ## Objetivo
 Aumentar la visibilidad de la marca y las ventas de juguetes de madera a través de estrategias de optimización en motores de búsqueda (SEO) y marketing en motores de búsqueda (SEM).
@@ -66,3 +67,6 @@ Las secciones anteriores fueron revisadas, modificadas y ajustadas con ChatGPT p
 
 ## Fact Checking
 Las secciones anteriores fueron verificadas y revisadas para evitar información alucinada o incorrecta.
+
+## Imágenes
+Imágenes libres de derechos (royalty-free) para el contenido de la campaña.
