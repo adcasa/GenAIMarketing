@@ -36,4 +36,4 @@ Y contenido de creadores relacionados a la cultura DIY.
 <img src="youtube.jpg" alt="image" width="100%" height="auto">
 
 ## Revisiones
-Las secciones anteriores fueron revisadas, modificadas y ajustadas con ChatGPT para reescribir secciones, donde se ajustó el tono y formato
+Las secciones anteriores fueron revisadas, modificadas y ajustadas con ChatGPT para reescribir secciones, donde se ajustó el tono y formato.
