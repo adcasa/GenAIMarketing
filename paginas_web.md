@@ -1,5 +1,6 @@
 # Páginas web con contenido relevante para el proyecto
 
+## Contendio de marketing
 **Para referentes de marketing tomamos algunas fuentes**:
 - Hootsuite Blog (https://blog.hootsuite.com/es/): El blog de Hootsuite ofrece recursos y guías sobre redes sociales, estrategias de marketing digital y herramientas de gestión de redes sociales. Proporciona consejos prácticos para mejorar la presencia en redes sociales, optimizar campañas y medir el rendimiento digital.
 - Metricool Blog (https://metricool.com/es/blog/): Metricool es un blog centrado en la analítica y gestión de redes sociales. Ofrece artículos sobre métricas clave, análisis de datos, tendencias en redes sociales y estrategias para mejorar la eficacia de las campañas digitales y la presencia online.
@@ -10,4 +11,11 @@
 
 Explicando el plan de marketing enfocado en juguetes de madera:
 - https://blog.sumerlabs.com/como-utilizar-el-marketing-de-contenidos-para-vender-juguetes-de-madera/ 
-- https://www.scribd.com/document/688377869/Plan-de-Marketing-Para-Ku-Juguetes-de-Madera. 
+- https://www.scribd.com/document/688377869/Plan-de-Marketing-Para-Ku-Juguetes-de-Madera.
+
+## Contendio de juguetes de madera
+- | Refernecia    | Sitio Web |
+| -------- | ------- |
+| Kidos    | https://kidos.com.mx)    |
+| Bifi     | https://bifi.mx     |
+| Mikukete | [$420](https://mikukete.com.mx)    |
