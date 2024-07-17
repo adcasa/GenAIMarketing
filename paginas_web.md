@@ -24,7 +24,7 @@
 | Kidos    | https://kidos.com.mx   |
 | Bifi     | https://bifi.mx     |
 | Mikukete | https://mikukete.com.mx    |
-| HEMA MX | https://mikukete.com.mx    |
+| HEMA MX | https://hemamx.com    |
 | Xalotl | https://juguetepopularmexicano.com/    |
 | Juguete Mexicano Artesanal | https://www.animalpolitico.com/tendencias/estilo-de-vida/juguete-mexicano-artesanal-como-se-hace    |
 
