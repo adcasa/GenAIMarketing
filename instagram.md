@@ -29,6 +29,7 @@ Crear una comunidad de padres y educadores interesados en juguetes educativos y 
 
 
 ## Ejemplo de contenido
+:point_up:
 - **Publicación de Producto:** "Nuestros bloques de construcción de madera no solo son divertidos, sino también educativos. 🌟 #JuguetesDeMadera #Aprendizaje"
 - **Historia:** "¡Hoy en nuestras historias! Mira cómo los niños disfrutan construyendo con nuestros juguetes de madera. 🧩✨"
 - **Reel:** "De la caja al juego: cómo nuestros juguetes de madera inspiran creatividad en cada paso. 🎨🧸"
