@@ -34,7 +34,7 @@ describas el objetivo, la estrategia y ejemplos relacionados con la campaña
 gracias, me puedes decir cuáles son los puntos clave de la campaña por YT e IG? 
 ~~~
 
-*Es importante mencionar que validamos la información entrando a los sitios web*
+*Es importante mencionar que validó la información entrando a los sitios web*
 
 \[[Inicio](README.md)\] \[[Campaña en Search](search.md)\] \[[Campaña de Youtube](youtube.md)\] \[[Campaña en Instagram](instagram.md)\]
 
