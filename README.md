@@ -1,4 +1,4 @@
-# GenAIMarketing
+# GenAIMarketing :sparkles::star::star2:
 
 
 
