@@ -2,7 +2,7 @@
 
 
 
-# Definición del tema : Contenido para campañas de marketing para juguetes de madera a través de ChatGPT y Prompt engineering:rocket::rocket::rocket:
+# Definición del tema : Contenido para campañas de marketing para juguetes de madera a través de ChatGPT y Prompt engineering :rocket::rocket::rocket:
 <div class="contenedor-imagenes">
 <img src="ChatGPT_logo.png" alt="image" width="10%" height="auto">
 <img src="toy1.jpg" alt="image" width="10%" height="auto">
