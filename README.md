@@ -16,7 +16,7 @@
 
 ## Generación de contenido para campañas de marketing para juguetes de madera
 
-[Campaña en Search](search.md)
+[Campaña en Search](search.md):mag_right:
 
 [Campaña de Youtube](youtube.md)
 
