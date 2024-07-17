@@ -44,6 +44,7 @@ Aumentar la visibilidad de la marca y las ventas de juguetes de madera a través
   - Anuncios de Remarketing: Mostrar anuncios a usuarios que hayan visitado previamente el sitio web pero no hayan realizado una compra, recordándoles los productos que vieron.
 
 ## Ejemplo
+:point_up:
 - **Investigación de Palabras Clave:**
   - Palabras clave seleccionadas: "juguetes de madera educativos", "juguetes sostenibles para niños", "beneficios de los juguetes de madera".
 - **Optimización On-Page:**
