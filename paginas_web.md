@@ -28,4 +28,4 @@
 | Xalotl | https://juguetepopularmexicano.com/    |
 | Juguete Mexicano Artesanal | https://www.animalpolitico.com/tendencias/estilo-de-vida/juguete-mexicano-artesanal-como-se-hace    |
 
-[Inicio](README.md)
+\[[Inicio](README.md)\] \[[Campaña en Search](search.md)\] \[[Campaña de Youtube](youtube.md)\] \[[Campaña en Instagram](instagram.md)\]
