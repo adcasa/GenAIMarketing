@@ -8,6 +8,7 @@
 - [Estrategia SEM Search Engine Marketing](#Estrategia-SEM-Search-Engine-Marketing)
 - [Ejemplo](#ejemplo)
 - [Revisiones](#Revisiones)
+- [Fact Checking](#Fact-Checking)
 
 ## Objetivo
 Aumentar la visibilidad de la marca y las ventas de juguetes de madera a través de estrategias de optimización en motores de búsqueda (SEO) y marketing en motores de búsqueda (SEM).
@@ -62,3 +63,6 @@ Identificamos que los principales que aparecen en las campañas de search en Goo
 
 ## Revisiones
 Las secciones anteriores fueron revisadas, modificadas y ajustadas con ChatGPT para reescribir secciones, donde se ajustó el tono y formato
+
+## Fact Checking
+Las secciones anteriores fueron verificadas y revisadas para evitar información alucinada o incorrecta.
