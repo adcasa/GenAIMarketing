@@ -1,6 +1,6 @@
 # GenAIMarketing
 
-<img src="ChatGPT_logo.png" alt="image" width="25%" height="auto">
+<img src="ChatGPT_logo.png" alt="image" width="15%" height="auto">
 
 # Creación de contenido: Campaña de marketing para juguetes de madera a través de ChatGPT y Prompt engineering
 ## Canales
