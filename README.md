@@ -1,6 +1,6 @@
 # GenAIMarketing
 
-![ChatGPT]([https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif](https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg))
+![image](ChatGPT_logo.png)
 # Creación de contenido: Campaña de marketing para juguetes de madera a través de ChatGPT y Prompt engineering
 ## Canales
 - Search
