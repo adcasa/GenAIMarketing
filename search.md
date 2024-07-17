@@ -70,3 +70,6 @@ Las secciones anteriores fueron verificadas y revisadas para evitar información
 
 ## Imágenes
 Imágenes libres de derechos (royalty-free) para el contenido de la campaña.
+<div class="contenedor-imagenes">
+<img src="pexels-photo-3933025.jpeg" alt="image" width="100%" height="auto">
+</div>
