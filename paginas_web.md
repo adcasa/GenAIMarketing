@@ -1,7 +1,7 @@
 \[[Inicio](README.md)\] \[[Campaña en Search](search.md)\] \[[Campaña de Youtube](youtube.md)\] \[[Campaña en Instagram](instagram.md)\]
 # :star:Páginas web con contenido relevante para el proyecto:star:
 
-## Contendio de marketing
+## Contenido de marketing
 **Para referentes de marketing tomamos algunas fuentes**:
 - Hootsuite Blog (https://blog.hootsuite.com/es/): El blog de Hootsuite ofrece recursos y guías sobre redes sociales, estrategias de marketing digital y herramientas de gestión de redes sociales. Proporciona consejos prácticos para mejorar la presencia en redes sociales, optimizar campañas y medir el rendimiento digital.
 - Metricool Blog (https://metricool.com/es/blog/): Metricool es un blog centrado en la analítica y gestión de redes sociales. Ofrece artículos sobre métricas clave, análisis de datos, tendencias en redes sociales y estrategias para mejorar la eficacia de las campañas digitales y la presencia online.
