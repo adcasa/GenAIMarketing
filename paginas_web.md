@@ -14,7 +14,7 @@ Explicando el plan de marketing enfocado en juguetes de madera:
 - https://www.scribd.com/document/688377869/Plan-de-Marketing-Para-Ku-Juguetes-de-Madera.
 
 ## Contendio de juguetes de madera
-- | Refernecia    | Sitio Web |
+| Refernecia    | Sitio Web |
 | -------- | ------- |
 | Kidos    | https://kidos.com.mx   |
 | Bifi     | https://bifi.mx     |
