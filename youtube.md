@@ -14,6 +14,7 @@
 ## Objetivo
 Mostrar el uso de los juguetes en situaciones reales y educativas, aumentando la visibilidad de la marca.
 
+:bookmark:
 ## Puntos clave
 - **Posicionamiento de Marca:** Establecer a la marca como líder en juguetes educativos y sostenibles.
 - **Educación del Cliente:** Mostrar cómo los juguetes de madera pueden ser utilizados para el aprendizaje y desarrollo de los niños.
