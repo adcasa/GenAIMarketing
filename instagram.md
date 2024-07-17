@@ -8,6 +8,7 @@
 - [Estrategia](#Estrategia)
 - [Ejemplo de contenido](#Ejemplo-de-contenido)
 - [Revisiones](#Revisiones)
+- [Fact Checking](#Fact-Checking)
 
 ## Objetivo
 Crear una comunidad de padres y educadores interesados en juguetes educativos y sostenibles, y fomentar la participación activa.
@@ -39,3 +40,6 @@ Resultados campañas
 
 ## Revisiones
 Las secciones anteriores fueron revisadas, modificadas y ajustadas con ChatGPT para reescribir secciones, donde se ajustó el tono y formato.
+
+## Fact Checking
+Las secciones anteriores fueron verificadas y revisadas para evitar información alucinada o incorrecta.
