@@ -51,3 +51,8 @@ Imágenes libres de derechos (royalty-free) para el contenido de la campaña.
 <img src="pexels-photo-3661195.jpeg" alt="image" width="40%" height="auto">
 <img src="pexels-photo-255514.jpeg" alt="image" width="40%" height="auto">
 </div>
+
+| Refernecia    | Sitio Web |
+| -------- | ------- |
+| Imagen1    | https://images.pexels.com/photos/255514/pexels-photo-255514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1     |
+| Imagen2     | https://images.pexels.com/photos/3661195/pexels-photo-3661195.jpeg?auto=compress&cs=tinysrgb&w=600     |
