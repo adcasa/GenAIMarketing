@@ -1,5 +1,5 @@
 [Inicio](README.md)
-# Resumen generado a partir de prompt engineering
+# :star:Resumen generado a partir de prompt engineering:star:
 
 ## Benchmark de compañías:
 **Nuestros referentes son otras compañías de juguetes y que tenemos ubicados como principales competidores son:**
