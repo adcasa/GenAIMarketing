@@ -30,6 +30,7 @@ Mostrar el uso de los juguetes en situaciones reales y educativas, aumentando la
 
 
 ## Ejemplo de contenido
+:point_up:
 - **Tutorial:** "Cómo usar juguetes de madera para enseñar matemáticas a los niños. Mira nuestras actividades paso a paso."
 - **Unboxing:** "Descubre nuestros nuevos juguetes de madera con este unboxing. Calidad y diversión garantizadas."
 - **Colaboración:** "Hoy, colaboramos con [Nombre del Influencer] para mostrar cómo nuestros juguetes de madera pueden hacer que el aprendizaje sea divertido y sostenible."
