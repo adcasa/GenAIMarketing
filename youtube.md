@@ -7,6 +7,7 @@
 - [Puntos clave](#Puntos-clave)
 - [Estrategia](#Estrategia)
 - [Ejemplo de contenido](#Ejemplo-de-contenido)
+- [Revisiones](#Revisiones)
 
 ## Objetivo
 Mostrar el uso de los juguetes en situaciones reales y educativas, aumentando la visibilidad de la marca.
@@ -33,3 +34,6 @@ Identificamos que las campañas de Youtube están centradas en anuncios patrocin
 Y contenido de creadores relacionados a la cultura DIY. 
 
 <img src="youtube.jpg" alt="image" width="100%" height="auto">
+
+## Revisiones
+Las secciones anteriores fueron revisadas, modificadas y ajustadas con ChatGPT para reescribir secciones, donde se ajustó el tono y formato
