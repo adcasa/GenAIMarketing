@@ -1,1 +1,35 @@
-youtube.md
+
+# Campañas propuestas: Marketing para YouTube
+
+
+
+- [Objetivo](#objetivo)
+- [Puntos clave](#Puntos-clave)
+- [Estrategia](#Estrategia)
+- [Ejemplo](#ejemplo)
+
+## Objetivo
+Mostrar el uso de los juguetes en situaciones reales y educativas, aumentando la visibilidad de la marca.
+
+## Puntos clave
+- **Posicionamiento de Marca:** Establecer a la marca como líder en juguetes educativos y sostenibles.
+- **Educación del Cliente:** Mostrar cómo los juguetes de madera pueden ser utilizados para el aprendizaje y desarrollo de los niños.
+- **Engagement:** Aumentar la interacción con el contenido a través de tutoriales y colaboraciones.
+
+
+## Estrategia
+
+- **Tutoriales y Demostraciones:** Crear una serie de videotutoriales y demostrativos sobre cómo utilizar los juguetes de madera para actividades educativas.
+- **Testimonios y Unboxings:** Publicar videos de unboxings y testimonios de padres, maestros e influencers.
+- **Colaboraciones:** Colaborar con YouTubers e influencers enfocados en maternidad, educación y sostenibilidad para ampliar el alcance.
+
+
+## Ejemplo
+- **Tutorial:** "Cómo usar juguetes de madera para enseñar matemáticas a los niños. Mira nuestras actividades paso a paso."
+- **Unboxing:** "Descubre nuestros nuevos juguetes de madera con este unboxing. Calidad y diversión garantizadas."
+- **Colaboración:** "Hoy, colaboramos con [Nombre del Influencer] para mostrar cómo nuestros juguetes de madera pueden hacer que el aprendizaje sea divertido y sostenible."
+Identificamos que las campañas de Youtube están centradas en anuncios patrocinados de Light in Box Ali Express , Temu y Farfetch, incluyendo productos de Shopping. 
+
+Y contenido de creadores relacionados a la cultura DIY. 
+
+<img src="youtube.jpg" alt="image" width="100%" height="auto">
