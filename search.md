@@ -7,6 +7,7 @@
 - [Estrategia SEO Search Engine Optimization](#Estrategia-SEO-Search-Engine-Optimization)
 - [Estrategia SEM Search Engine Marketing](#Estrategia-SEM-Search-Engine-Marketing)
 - [Ejemplo](#ejemplo)
+- [Revisiones](#Revisiones)
 
 ## Objetivo
 Aumentar la visibilidad de la marca y las ventas de juguetes de madera a través de estrategias de optimización en motores de búsqueda (SEO) y marketing en motores de búsqueda (SEM).
@@ -57,3 +58,7 @@ Aumentar la visibilidad de la marca y las ventas de juguetes de madera a través
 
 Identificamos que los principales que aparecen en las campañas de search en Google son productos de Shopping de Pin Pon, corner home Temu y Waldo’s.
 <img src="search.jpg" alt="image" width="100%" height="auto">
+
+
+## Revisiones
+Las secciones anteriores fueron revisadas, modificadas y ajustadas con ChatGPT para reescribir secciones, donde se ajustó el tono y formato
