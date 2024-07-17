@@ -23,7 +23,7 @@
 [Campaña en Instagram](instagram.md)
 
 
-## Equipo 27
+## Equipo 27 GenAIMarketing
 - Adolfo Castro
 - Cris Brito
 - Mónica Valencia
