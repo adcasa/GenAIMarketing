@@ -7,6 +7,7 @@
 - [Puntos clave](#Puntos-clave)
 - [Estrategia](#Estrategia)
 - [Ejemplo de contenido](#Ejemplo-de-contenido)
+- [Revisiones](#Revisiones)
 
 ## Objetivo
 Crear una comunidad de padres y educadores interesados en juguetes educativos y sostenibles, y fomentar la participación activa.
@@ -35,3 +36,6 @@ Resultados campañas
 <img src="instragram1.jpg" alt="image" width="25%" height="auto">
 <img src="instragram2.jpg" alt="image" width="25%" height="auto">
 </div>
+
+## Revisiones
+Las secciones anteriores fueron revisadas, modificadas y ajustadas con ChatGPT para reescribir secciones, donde se ajustó el tono y formato.
