@@ -9,7 +9,9 @@
 </div>
 
 ## Contenido general
+
 [Páginas web con contenido relevante para su proyecto](paginas_web.md)
+
 [Resumen generado a partir de prompt engineering](resumen_web.md)
 
 ## Contenido para campañas de marketing
