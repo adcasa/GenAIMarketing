@@ -14,7 +14,8 @@
 ## Objetivo
 Aumentar la visibilidad de la marca y las ventas de juguetes de madera a través de estrategias de optimización en motores de búsqueda (SEO) y marketing en motores de búsqueda (SEM).
 
-## Estrategia SEO Search Engine Optimization :bookmark:
+:bookmark:
+## Estrategia SEO Search Engine Optimization
 - **Investigación de Palabras Clave:**
   - Identificar palabras clave relacionadas con juguetes de madera, educación infantil, sostenibilidad y desarrollo infantil.
   - Utilizar herramientas como Google Keyword Planner, Ahrefs, o SEMrush para encontrar palabras clave con alto volumen de búsqueda y baja competencia.
@@ -30,8 +31,8 @@ Aumentar la visibilidad de la marca y las ventas de juguetes de madera a través
   - Mobile-Friendly: Optimizar el sitio para dispositivos móviles.
   - Mapa del Sitio: Crear y enviar un mapa del sitio a Google Search Console.
 
-
-## Estrategia SEM Search Engine Marketing :bookmark:
+:bookmark:
+## Estrategia SEM Search Engine Marketing
 
 - **Google Ads:**
   - Anuncios de Búsqueda: Crear anuncios de texto que aparezcan en los resultados de búsqueda cuando los usuarios busquen palabras clave relacionadas con juguetes de madera.
