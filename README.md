@@ -22,7 +22,7 @@
 
 [Campaña en Instagram](instagram.md):tv:
 
-## Presentación
+## Presentación :eyes::eyes:
 [Presentación del Challenge](S05_Challenge_Checkpoint.pdf)
 
 ## Equipo 27 GenAIMarketing
