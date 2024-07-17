@@ -82,4 +82,4 @@ Imágenes libres de derechos (royalty-free) para el contenido de la campaña.
 | -------- | ------- |
 | Imagen1    | https://images.pexels.com/photos/3933025/pexels-photo-3933025.jpeg?auto=compress&cs=tinysrgb&w=600    |
 
-[Inicio](README.md)
+\[[Inicio](README.md)\] \[[Campaña en Search](search.md)\] \[[Campaña de Youtube](youtube.md)\] \[[Campaña en Instagram](instagram.md)\]  \[[ChatGPT](https://chatgpt.com)\]
