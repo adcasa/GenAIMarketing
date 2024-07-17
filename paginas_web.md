@@ -10,8 +10,12 @@
 - Semrush Blog (https://es.semrush.com/blog/): El blog de Semrush proporciona recursos sobre SEO, SEM, content marketing y análisis de datos. Ofrece tutoriales, estudios de caso y consejos para ayudar a los profesionales del marketing a mejorar su visibilidad online y optimizar sus estrategias digitales.
 
 Explicando el plan de marketing enfocado en juguetes de madera:
-- https://blog.sumerlabs.com/como-utilizar-el-marketing-de-contenidos-para-vender-juguetes-de-madera/ 
-- https://www.scribd.com/document/688377869/Plan-de-Marketing-Para-Ku-Juguetes-de-Madera.
+| Refernecia    | Sitio Web |
+| -------- | ------- |
+| Sumerlabs    | https://blog.sumerlabs.com/como-utilizar-el-marketing-de-contenidos-para-vender-juguetes-de-madera |
+| Scribd    | https://www.scribd.com/document/688377869/Plan-de-Marketing-Para-Ku-Juguetes-de-Madera.   |
+
+
 
 ## Contendio de juguetes de madera
 | Refernecia    | Sitio Web |
