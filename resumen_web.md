@@ -13,7 +13,12 @@
 
 ## Prompts utilizados:
 ~~~
-Hola, como experto en marketing haremos un trabajo sobre la venta de juguetes de madera, el objetivo es hacer 3 campañas para ofrecer nuestros productos (1 por x, 1 por youtube, 1 por instagram), lo primero que necesitamos es el resumen breve de 3 o 4 competidores en méxico para tomarlos como bench. Puedes ayudarme eligiendo de la siguiente lista las principales para guiarnos? https://blog.hootsuite.com/es/ https://metricool.com/es/blog/ https://www.rdstation.com/blog/es/ https://blog.hubspot.es/marketing/ia-generativa (este es un artículo especial de la IA Generativa) https://www.merca20.com/ https://es.semrush.com/blog/
+Hola, como experto en marketing haremos un trabajo sobre la venta de juguetes de madera, el objetivo es hacer 3
+campañas para ofrecer nuestros productos (1 por x, 1 por youtube, 1 por instagram), lo primero que necesitamos
+es el resumen breve de 3 o 4 competidores en méxico para tomarlos como bench. Puedes ayudarme eligiendo de la
+siguiente lista las principales para guiarnos? https://blog.hootsuite.com/es/ https://metricool.com/es/blog/
+https://www.rdstation.com/blog/es/ https://blog.hubspot.es/marketing/ia-generativa (este es un artículo
+especial de la IA Generativa) https://www.merca20.com/ https://es.semrush.com/blog/
 ~~~
 
 *Es importante mencionar que validamos la información entrando a los sitios web*
