@@ -1,8 +1,7 @@
 # GenAIMarketing
 
 
-# Creación de contenido: 
-# Campaña de marketing para juguetes de madera a través de ChatGPT y Prompt engineering
+# Creación de contenido: Campaña de marketing para juguetes de madera a través de ChatGPT y Prompt engineering
 ## Canales
 - Search
 - Youtube
