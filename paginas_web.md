@@ -16,6 +16,6 @@ Explicando el plan de marketing enfocado en juguetes de madera:
 ## Contendio de juguetes de madera
 - | Refernecia    | Sitio Web |
 | -------- | ------- |
-| Kidos    | https://kidos.com.mx)    |
+| Kidos    | https://kidos.com.mx   |
 | Bifi     | https://bifi.mx     |
-| Mikukete | [$420](https://mikukete.com.mx)    |
+| Mikukete | https://mikukete.com.mx    |
