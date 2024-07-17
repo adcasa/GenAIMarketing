@@ -8,6 +8,7 @@
 - [Estrategia](#Estrategia)
 - [Ejemplo de contenido](#Ejemplo-de-contenido)
 - [Revisiones](#Revisiones)
+- [Fact Checking](#Fact-Checking)
 
 ## Objetivo
 Mostrar el uso de los juguetes en situaciones reales y educativas, aumentando la visibilidad de la marca.
@@ -37,3 +38,6 @@ Y contenido de creadores relacionados a la cultura DIY.
 
 ## Revisiones
 Las secciones anteriores fueron revisadas, modificadas y ajustadas con ChatGPT para reescribir secciones, donde se ajustó el tono y formato.
+
+## Fact Checking
+Las secciones anteriores fueron verificadas y revisadas para evitar información alucinada o incorrecta.
