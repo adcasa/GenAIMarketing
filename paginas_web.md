@@ -1,5 +1,5 @@
 [Inicio](README.md)
-# Páginas web con contenido relevante para el proyecto
+# :star:Páginas web con contenido relevante para el proyecto:star:
 
 ## Contendio de marketing
 **Para referentes de marketing tomamos algunas fuentes**:
