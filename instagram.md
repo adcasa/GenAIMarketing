@@ -32,6 +32,6 @@ Resultados campañas
 
 
 <div class="contenedor-imagenes">
-<img src="instragram1.jpg" alt="image" width="50%" height="auto">
-<img src="instragram2.jpg" alt="image" width="50%" height="auto">
+<img src="instragram1.jpg" alt="image" width="25%" height="auto">
+<img src="instragram2.jpg" alt="image" width="25%" height="auto">
 </div>
